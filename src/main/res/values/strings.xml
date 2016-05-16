@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="height">身長：</string>
+    <string name="weight">体重：</string>
+    <string name="cm">cm</string>
+    <string name="kg">k  g</string>
+    <string name="height_hint">整数</string>
+    <string name="weight_hint">整数</string>
+    <string name="Calc">BMIを見る</string>
+    <string name="BMInavi">あなたのBMIは</string>
+    <string name="BestWeightNavi">身長に対する標準体重</string>
+</resources>
